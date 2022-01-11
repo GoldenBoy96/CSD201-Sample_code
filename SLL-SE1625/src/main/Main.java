@@ -1,4 +1,4 @@
-package list;
+package main;
 
 import dll.DLL;
 import cll.CLL;
@@ -8,7 +8,8 @@ public class Main {
 
     public static void main(String[] args) throws Exception {
         //demoCLL();
-        demoDLL();
+        //demoDLL();
+        demoSLL();
     }
     
     public static void demoDLL() throws Exception {
